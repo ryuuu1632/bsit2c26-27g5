@@ -1,1 +1,52 @@
-
+[
+    {
+        "name": "Dhanrianne P. Glova",
+        "role": "TEAM MEMBER",
+        "skills": [
+            "Leadership",
+            "Graphic Designer"
+        ],
+        "photo": "uploads\/member0_1786355726.jpg"
+    },
+    {
+        "name": "Maia Quessa A. Lagubis",
+        "role": "TEAM MEMBER",
+        "skills": [
+            "JavaScript",
+            "React",
+            "Git"
+        ],
+        "photo": "uploads\/member1_1786348663.jpg"
+    },
+    {
+        "name": "Keith Lourence Q. Lagang",
+        "role": "TEAM LEADER and Developer 2",
+        "skills": [
+            "Javascript",
+            "Schema Design"
+        ],
+        "photo": "uploads\/member2_1786963518.jpg",
+        "bio": "none",
+        "email": "try1@gmail.com"
+    },
+    {
+        "name": "Greshiela Jairah Bayron",
+        "role": "TEAM MEMBER",
+        "skills": [
+            "Testing",
+            "Figma",
+            "Docs"
+        ],
+        "photo": "uploads\/member3_1786963429.jpg"
+    },
+    {
+        "name": "Ralf Jhon G. Lucaban",
+        "role": "Team Member",
+        "skills": [
+            "Testing"
+        ],
+        "photo": "uploads\/member4_1786281296.jpg",
+        "email": "ralfjhonlucaban@gmail.com",
+        "bio": "none"
+    }
+]
